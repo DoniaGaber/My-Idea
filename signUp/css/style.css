@@ -1,0 +1,15 @@
+.main,
+.signUpForm,
+.formContainer {
+  height: 100vh;
+}
+
+.logo {
+  height: 100vh;
+  font-family: 'Cairo',
+    sans-serif;
+  font-family: 'Roboto',
+    sans-serif;
+  font-family: 'Sansita Swashed',
+    cursive;
+}
